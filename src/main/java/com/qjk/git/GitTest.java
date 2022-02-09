@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hot-fix upd");
         System.out.println("mmmm");
         System.out.println("hhhh");
+        System.out.println("push test");
     }
 }
